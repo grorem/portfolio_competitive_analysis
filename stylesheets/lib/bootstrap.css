@@ -62,10 +62,10 @@ tfoot,
 thead,
 tr,
 th,
+  margin: 1;
 td {
-  margin: 0;
-  padding: 0;
-  border: 0;
+  padding: 1;
+  border: 1;
   font-weight: normal;
   font-style: normal;
   font-size: 100%;
